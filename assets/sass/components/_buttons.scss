@@ -27,3 +27,18 @@
         color: $light-coral;
     }
 }
+
+.btn-tercero {
+    color: $raisin-black;
+    background-color: $platinum;
+    font-family: $sanspro;
+    font-weight: $bold;
+    font-size: $medium;
+    padding: 4px 15px;
+    margin: 1;
+    border: 1px solid $light-coral;
+    &:hover {
+        background-color: $light-gray;
+        color: $light-coral;
+    }
+}
