@@ -10226,6 +10226,12 @@ main__container {
   margin: 0 auto;
 }
 
+@media (min-width: 370px) {
+  .main__fotos {
+    width: 100%;
+    margin: 0 auto;
+  }
+}
 .footer {
   width: 100%;
   height: auto;
