@@ -10906,5 +10906,8 @@ section__container {
     margin-left: 7rem;
   }
 }
+.input {
+  border: 1px solid #FA8072;
+}
 
 /*# sourceMappingURL=main.css.map */
