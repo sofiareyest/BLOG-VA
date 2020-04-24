@@ -10540,6 +10540,10 @@ header__container {
   padding-left: 13rem;
 }
 
+.navbar-toggler {
+  color: black;
+}
+
 .nav-link {
   color: #E8E8E8;
   text-shadow: black;

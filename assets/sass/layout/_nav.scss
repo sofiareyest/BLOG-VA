@@ -33,6 +33,10 @@
     padding-left: 13rem;
 }
 
+.navbar-toggler {
+    color: black;
+}
+
 .nav-link {
     color: $platinum;
     text-shadow: darken($color: #000000, $amount: 5);
