@@ -9888,6 +9888,7 @@ h3 {
 body {
   margin: 0;
   padding: 0;
+  padding-top: 65px;
   font-family: "Source Sans Pro", sans-serif;
   position: relative;
   scroll-behavior: smooth;
@@ -10537,11 +10538,12 @@ header__container {
   font-family: "Source Sans Pro", sans-serif;
   color: #E8E8E8;
   justify-content: center;
-  padding-left: 13rem;
+  padding-left: 10rem;
 }
 
 .navbar-toggler {
-  color: black;
+  background-color: #000;
+  color: #FFF;
 }
 
 .nav-link {

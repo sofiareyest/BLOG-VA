@@ -30,11 +30,12 @@
     font-family: $sanspro;
     color: $platinum;
     justify-content: center;
-    padding-left: 13rem;
+    padding-left: 10rem;
 }
 
 .navbar-toggler {
-    color: black;
+    background-color: $black;
+    color: $white;
 }
 
 .nav-link {
