@@ -10232,6 +10232,33 @@ main__container {
     margin: 0 auto;
   }
 }
+@media (min-width: 580px) {
+  .main__fotos {
+    width: 100%;
+    margin: 0 auto;
+  }
+}
+@media (min-width: 768px) {
+  .main__fotos {
+    width: 100%;
+    margin: 0 auto;
+    top: 125px;
+  }
+}
+@media (min-width: 992px) {
+  .main__fotos {
+    width: 100%;
+    margin: 0 auto;
+    top: 40px;
+  }
+}
+@media (min-width: 1280px) {
+  .main__fotos {
+    width: 100%;
+    margin: 0 auto;
+    top: 0;
+  }
+}
 .footer {
   width: 100%;
   height: auto;
